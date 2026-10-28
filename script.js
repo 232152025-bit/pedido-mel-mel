@@ -227,7 +227,7 @@ function aceitou() {
     const mensagem = document.getElementById("mensagemFinal");
 
     mensagem.textContent =
-        "Este é só co começo de uma história que jamais haverá fim " +
+        "Este é só o começo de uma história que jamais haverá fim " +
         "uma história cheia de amor, carinho, experiências, respeito, parceria e momentos inesquecíveis, eu te amo além da vida minha pequena. " +
         " 💍💕";
 
